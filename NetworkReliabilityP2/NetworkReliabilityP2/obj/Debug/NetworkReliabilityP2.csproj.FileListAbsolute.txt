@@ -1,0 +1,14 @@
+C:\Users\Max\OneDrive\לימודים\2018-19\אמינות\Project\NetworkReliabilityP2\NetworkReliabilityP2\bin\Debug\NetworkReliabilityP2.exe.config
+C:\Users\Max\OneDrive\לימודים\2018-19\אמינות\Project\NetworkReliabilityP2\NetworkReliabilityP2\bin\Debug\NetworkReliabilityP2.exe
+C:\Users\Max\OneDrive\לימודים\2018-19\אמינות\Project\NetworkReliabilityP2\NetworkReliabilityP2\bin\Debug\NetworkReliabilityP2.pdb
+C:\Users\Max\OneDrive\לימודים\2018-19\אמינות\Project\NetworkReliabilityP2\NetworkReliabilityP2\obj\Debug\NetworkReliabilityP2.csprojAssemblyReference.cache
+C:\Users\Max\OneDrive\לימודים\2018-19\אמינות\Project\NetworkReliabilityP2\NetworkReliabilityP2\obj\Debug\NetworkReliabilityP2.csproj.CoreCompileInputs.cache
+C:\Users\Max\OneDrive\לימודים\2018-19\אמינות\Project\NetworkReliabilityP2\NetworkReliabilityP2\obj\Debug\NetworkReliabilityP2.exe
+C:\Users\Max\OneDrive\לימודים\2018-19\אמינות\Project\NetworkReliabilityP2\NetworkReliabilityP2\obj\Debug\NetworkReliabilityP2.pdb
+C:\Users\DELL\Desktop\אמינות\הגשה\Project\NetworkReliabilityP2\NetworkReliabilityP2\bin\Debug\NetworkReliabilityP2.exe.config
+C:\Users\DELL\Desktop\אמינות\הגשה\Project\NetworkReliabilityP2\NetworkReliabilityP2\bin\Debug\NetworkReliabilityP2.exe
+C:\Users\DELL\Desktop\אמינות\הגשה\Project\NetworkReliabilityP2\NetworkReliabilityP2\bin\Debug\NetworkReliabilityP2.pdb
+C:\Users\DELL\Desktop\אמינות\הגשה\Project\NetworkReliabilityP2\NetworkReliabilityP2\obj\Debug\NetworkReliabilityP2.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\אמינות\הגשה\Project\NetworkReliabilityP2\NetworkReliabilityP2\obj\Debug\NetworkReliabilityP2.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\אמינות\הגשה\Project\NetworkReliabilityP2\NetworkReliabilityP2\obj\Debug\NetworkReliabilityP2.exe
+C:\Users\DELL\Desktop\אמינות\הגשה\Project\NetworkReliabilityP2\NetworkReliabilityP2\obj\Debug\NetworkReliabilityP2.pdb
